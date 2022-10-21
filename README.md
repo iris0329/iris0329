@@ -9,6 +9,7 @@
 
 ```
 class Person():
+
     def __init__(self, name, focus):
         self.name = Iris
         self.focus = ["Computer Vision", "Point Cloud"];    
