@@ -7,6 +7,19 @@
 - 📫 How to reach me: lirong0329 at qq.com
 --->
 
+```
+class Person():
+    def __init__(self, name, focus):
+        self.name = Iris
+        self.focus = ["Computer Vision", "Point Cloud"];    
+        
+    def research(self):
+        ...
+        
+    def hobbies(self):
+        ...
+}
+```
 
 <!---
 ![](https://img.shields.io/badge/-Python-blue) ![](https://img.shields.io/badge/-Pytorch-orange)
