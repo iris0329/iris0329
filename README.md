@@ -19,7 +19,6 @@ class Person():
         
     def hobbies(self):
         ...
-}
 ```
 
 <!---
