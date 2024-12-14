@@ -1,5 +1,5 @@
 
-# 👋 Hi there, this is Rong, I’m interested in anything interesting.
+# 👋 Hi there, I’m interested in anything interesting.
 
 <!---
 - 🌱 I’m currently learning Computer Vision
